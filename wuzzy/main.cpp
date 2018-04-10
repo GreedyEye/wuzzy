@@ -21,7 +21,7 @@ int main(int argc, const char * argv[]) {
 	
 	std::vector<Agent>::const_iterator i;
 	for (i=agentList.begin();i<agentList.end();++i) {
-		std::cout << "Hello, World!\n";
+		std::cout << "Hello, World!!!\n";
 	}
 	return 0;
 }
